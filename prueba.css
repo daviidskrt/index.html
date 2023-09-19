@@ -1,0 +1,22 @@
+body{padding-bottom: 70%;}
+.titulo{
+  
+   height: 600px;
+   font-size: 40px;
+   color: blueviolet; 
+   font-family: 'Courier New', Courier, monospace;
+   font-style: italic;
+   padding-left: 50%;
+   background-image: url(HorarioDAW2.PNG);
+   background-size: contain;
+   background-repeat: no-repeat;
+   padding: 30px;
+}
+
+.vacile{
+    height: auto;
+    width: auto;
+}
+.estilo{ font-weight: 900;
+color: blueviolet;
+font-size: 70px;}
